@@ -17,18 +17,26 @@ The data focused upon will be derived from the Steam game library, Twitch's popu
 * Video Game Sales: vgsales.csv 
 * Steam Game Library: games-features.csv 
 
-#### Software Used: 
+## Communication Protocols: 
+* Slack - Direct Messages between members for daily updates.
+* Zoom - Scheduled meetups between 2-3pm PST for peer review and clarifications. 
+
+## Technologies Used:
 * Conda 4.8.3 
 * Python 3.7.7
 
-## Communication Protocols:
-* GITHUB
+### Data Cleaning and Analysis: 
+Pandas and Jupyter Notebook used to clean the data and perform an exploratory analysis. Further analysis completed using Python.
+
+### Database Storage: 
+Mongo is the database we intend to use, and we will integrate Flask to display the data.
+
+### Machine Learning: 
+SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression. 
+
+### Dashboard: 
 
 ## Summary/Deliverables 
 
 [Section for images and/or links to visual presentation pages.]
 
-
-
-Notes - TBD: 
-We can use vgsales.csv (best bet) or new_data (i.e. modified steam data) as our mock data.
