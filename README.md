@@ -24,6 +24,7 @@ The data focused upon will be derived from the Steam game library, Twitch's popu
 ## Technologies Used:
 * Conda 4.8.3 
 * Python 3.7.7
+* SMOTEENN
 
 ### Data Cleaning and Analysis: 
 Pandas and Jupyter Notebook used to clean the data and perform an exploratory analysis. Further analysis completed using Python.
@@ -32,7 +33,7 @@ Pandas and Jupyter Notebook used to clean the data and perform an exploratory an
 Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
 ### Machine Learning: 
-SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression. 
+SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression and SMOTEENN.
 
 ### Dashboard: 
 
