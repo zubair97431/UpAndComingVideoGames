@@ -1,4 +1,11 @@
 
+<<<<<<< HEAD
+=======
+# Folders 
+.ipynb_checkpoints/
+.vscode/
+
+>>>>>>> 36503059a692ea12b2d968347a3826782f269d77
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,6 +134,7 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
 
 # Folders 
@@ -134,3 +142,6 @@ dmypy.json
 
 # Files
 settings.json
+=======
+.pyre/
+>>>>>>> 36503059a692ea12b2d968347a3826782f269d77
