@@ -1,4 +1,4 @@
-name,website_rating,genre,Action,Adventure,Casual,Design_&_Illustration,Early_Access,Free_to_Play,Indie,Massively_Multiplayer,RPG,Racing,Simulation,Sports,Strategy,Utilities
+game_name,website_rating,genre,Action,Adventure,Casual,Design_And_Illustration,Early_Access,Free_to_Play,Indie,Massively_Multiplayer,RPG,Racing,Simulation,Sports,Strategy,Utilities
 60 Seconds!,70,"Adventure,Casual,Indie,Simulation,Strategy",0,1,1,0,0,0,1,0,0,0,1,0,1,0
 7 Wonders II,60,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 7 Wonders of the Ancient World,30,"Casual,Strategy",0,0,1,0,0,0,0,0,0,0,0,0,1,0
@@ -148,7 +148,6 @@ Cossacks II: Battle for Europe,80,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Cossacks II: Napoleonic Wars,80,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Costume Quest,70,"Adventure,Casual,RPG",0,1,1,0,0,0,0,0,1,0,0,0,0,0
 Counter-Strike: Global Offensive,85,"Action,Free to Play",1,0,0,0,0,1,0,0,0,0,0,0,0,0
-Counter-Strike: Global Offensive,75,"Action,Free to Play",1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Counter-Strike: Source,90,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cradle,75,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Crayon Physics Deluxe,80,"Casual,Indie",0,0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -268,7 +267,6 @@ Fallout: New Vegas,85,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Fallout Shelter,75,"Free to Play,RPG,Simulation",0,0,0,0,0,1,0,0,1,0,1,0,0,0
 Fallout Tactics: Brotherhood of Steel,80,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Farming Simulator 2011,60,Simulation,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Farming Simulator 2011,40,Simulation,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Fantasy Wars,70,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Far Cry 3,90,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Farm Machines Championships 2014,20,"Racing,Simulation",0,0,0,0,0,0,0,0,0,1,1,0,0,0
@@ -279,7 +277,6 @@ Fieldrunners 2,80,"Action,Strategy,Casual",1,0,1,0,0,0,0,0,0,0,0,0,1,0
 Final Exam,75,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Fishing Planet,85,"Free to Play,Massively Multiplayer,Simulation,Sports",0,0,0,0,0,1,0,1,0,0,1,1,0,0
 Flashback,80,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
-Flashback,80,"Action,Adventure,RPG",1,1,0,0,0,0,0,0,1,0,0,0,0,0
 FlatOut,75,Racing,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 FlatOut: Ultimate Carnage,70,Racing,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Fly'N,85,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -349,7 +346,6 @@ Hitman: Blood Money,80,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hitman 2: Silent Assassin,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hitman: Contracts,75,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Home Sweet Home,65,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Home Sweet Home,35,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Homefront,55,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Homesick,65,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Hook,50,"Casual,Indie",0,0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -371,13 +367,11 @@ Incoming Forces,40,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 INK,70,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
 Inmates,45,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Insurgency,75,"Action,Indie,Strategy",1,0,0,0,0,0,1,0,0,0,0,0,1,0
-Insurgency,85,"Action,Indie,Strategy",1,0,0,0,0,0,1,0,0,0,0,0,1,0
 Insurgency: Sandstorm,80,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 "Invisible, Inc.",85,"Action,Indie,Strategy",1,0,0,0,0,0,1,0,0,0,0,0,1,0
 Iron Brigade,85,"Action,Strategy",1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Iron Grip: Warlord,70,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Iron Storm,75,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
-Iron Storm,45,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
 Ittle Dew,75,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 John Wick Chronicles,55,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jotun: Valhalla Edition,75,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -398,14 +392,12 @@ King's Bounty: The Legend,80,"RPG,Strategy",0,0,0,0,0,0,0,0,1,0,0,0,1,0
 King's Bounty: Warriors of the North,75,"RPG,Strategy",0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Kingdom: New Lands,85,"Indie,Simulation,Strategy",0,0,0,0,0,0,1,0,0,0,1,0,1,0
 Zanzarah: The Hidden Portal,55,"Action,Adventure,RPG",1,1,0,0,0,0,0,0,1,0,0,0,0,0
-Zanzarah: The Hidden Portal,70,"Action,Adventure,RPG",1,1,0,0,0,0,0,0,1,0,0,0,0,0
 Knights of Honor,75,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Knytt Underground,75,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Kohan II: Kings of War,60,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 L.A. Noire: The VR Case Files,80,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Sinking Island,75,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Nostradamus: The Last Prophecy,90,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
-Nostradamus: The Last Prophecy,75,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
 The Sum of All Fears,65,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lara Croft and the Guardian of Light,85,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Layers of Fear,75,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -416,7 +408,6 @@ Left 4 Dead,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Left 4 Dead 2,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Legacy of Kain: Defiance,75,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Legacy of Kain: Soul Reaver,90,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
-Legend of Grimrock,90,"Adventure,Indie,RPG",0,1,0,0,0,0,1,0,1,0,0,0,0,0
 Legend of Grimrock,90,"Adventure,Indie,RPG",0,1,0,0,0,0,1,0,1,0,0,0,0,0
 Legendary,50,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Misadventures of P.B. Winterbottom,80,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -444,7 +435,6 @@ Mafia,85,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Mafia II,75,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Magic: The Gathering - Duels of the Planeswalkers 2012,60,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Magic: The Gathering - Duels of the Planeswalkers 2013,60,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Magic: The Gathering - Duels of the Planeswalkers 2013,65,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Magicka,55,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Magnetis,70,"Indie,Casual",0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Magrunner: Dark Pulse,50,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -462,7 +452,6 @@ Max Payne 2: The Fall of Max Payne,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Max Payne 3,90,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mayan Death Robots,80,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 McPixel,70,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
-McPixel,75,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
 MDK,90,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 MDK 2,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanic Escape,65,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -482,9 +471,6 @@ Moon Hunters,80,"Adventure,Indie,RPG",0,1,0,0,0,0,1,0,1,0,0,0,0,0
 Mother Russia Bleeds,75,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Motorsport Manager,75,"Racing,Simulation,Sports,Strategy",0,0,0,0,0,0,0,0,0,1,1,1,1,0
 Mount Hill,85,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
-Mount Hill,90,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
-Mount Hill,75,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
-Mount Hill,80,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Murdered: Soul Suspect,55,"Action,Adventure,RPG",1,1,0,0,0,0,0,0,1,0,0,0,0,0
 MX vs. ATV Unleashed,60,"Racing,Simulation",0,0,0,0,0,0,0,0,0,1,1,0,0,0
 Myst III: Exile,90,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
@@ -526,7 +512,6 @@ Papo & Yo,75,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Paradise,70,"Casual,Indie,RPG",0,0,1,0,0,0,1,0,1,0,0,0,0,0
 Parkan: Iron Strategy,65,"Action,Adventure,Simulation",1,1,0,0,0,0,0,0,0,0,1,0,0,0
 Path of Exile,75,"Action,Adventure,Free to Play,Indie,Massively Multiplayer,RPG",1,1,0,0,0,1,1,1,1,0,0,0,0,0
-Path of Exile,80,"Action,Adventure,Free to Play,Indie,Massively Multiplayer,RPG",1,1,0,0,0,1,1,1,1,0,0,0,0,0
 Penumbra: Requiem,60,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Perimeter,65,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Phantom Doctrine,80,"Action,RPG,Strategy",1,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -557,7 +542,6 @@ Proxy Blade Zero,70,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Psychonauts,85,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Putrefaction,55,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Puzzle Agent 2,80,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
-Puzzle Agent 2,70,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
 Pajama Sam 3: You Are What You Eat From Your Head To Your Feet,60,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
 Quantum Conundrum,75,"Casual,Strategy",0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Quantz,75,"Indie,Casual",0,0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -609,7 +593,6 @@ S.T.A.L.K.E.R.: Call of Pripyat,90,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 S.T.A.L.K.E.R.: Shadow of Chernobyl,85,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Sacred 3,50,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Sacred Citadel,70,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sacrifice,85,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Safecracker: The Ultimate Puzzle Adventure,60,"Adventure,Casual",0,1,1,0,0,0,0,0,0,0,0,0,0,0
 Saints Row: The Third - The Full Package,75,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Saints Row 2,75,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -618,7 +601,6 @@ Sam & Max Hit the Road,90,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Samorost 2,85,"Adventure,Casual,Indie",0,1,1,0,0,0,1,0,0,0,0,0,0,0
 Sanitarium,85,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Satellite Reign,65,"Action,Indie,Strategy",1,0,0,0,0,0,1,0,0,0,0,0,1,0
-Saw,45,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scrabble,70,"Casual,Strategy",0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Sea Dogs,70,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Marine Park Empire,40,"Casual,Simulation,Strategy",0,0,1,0,0,0,0,0,0,0,1,0,1,0
@@ -635,7 +617,6 @@ Shadow Man,95,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Call of Cthulhu: Shadow of the Comet,80,Adventure,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Shadow Ops: Red Mercury,50,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Shadow Warrior,75,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
-Shadow Warrior,80,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Shadow Warrior 2,75,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Shadowgate,70,"Adventure,Indie",0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Shadowgrounds,60,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -670,7 +651,6 @@ Space Run Galaxy,65,"Indie,Strategy",0,0,0,0,0,0,1,0,0,0,0,0,1,0
 SpaceChem,85,"Indie,Simulation",0,0,0,0,0,0,1,0,0,0,1,0,0,0
 Spec Ops: The Line,80,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Spelunky,85,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Spelunky,80,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 Splice,80,"Indie,Casual",0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Split/Second,80,"Action,Racing",1,0,0,0,0,0,0,0,0,1,0,0,0,0
 SpyParty,75,"Action,Indie,Simulation,Strategy,Early Access",1,0,0,0,1,0,1,0,0,0,1,0,1,0
@@ -708,7 +688,6 @@ Symphony,80,"Action,Casual,Indie",1,0,1,0,0,0,1,0,0,0,0,0,0,0
 System Shock 2,90,"Action,RPG",1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Take On Helicopters,70,Simulation,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Taxi,20,"Indie,Simulation",0,0,0,0,0,0,1,0,0,0,1,0,0,0
-Taxi,20,Casual,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Team Fortress 2,85,"Action,Free to Play",1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Templar Battleforce,75,"Action,Indie,RPG,Strategy",1,0,0,0,0,0,1,0,1,0,0,0,1,0
 Tennis Elbow 2013,75,"Simulation,Sports",0,0,0,0,0,0,0,0,0,0,1,1,0,0
@@ -776,7 +755,6 @@ Tinertia,80,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Tiny Thor,70,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 Tiny Brains,65,"Action,Adventure,Casual,Indie",1,1,1,0,0,0,1,0,0,0,0,0,0,0
 To the Moon,80,"Adventure,Indie,RPG",0,1,0,0,0,0,1,0,1,0,0,0,0,0
-Tomb Raider,90,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Tomb Raider,90,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Tomb Raider II,85,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
 Tomb Raider: Underworld,75,"Action,Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -854,7 +832,6 @@ Wolfenstein 3D,90,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wooden Sen'SeY,70,"Action,Indie",1,0,0,0,0,0,1,0,0,0,0,0,0,0
 World of Goo,90,Indie,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 World of Warplanes,70,"Action,Free to Play,Massively Multiplayer,Simulation,Early Access",1,0,0,0,1,1,0,1,0,0,1,0,0,0
-World of Warplanes,60,"Action,Free to Play,Massively Multiplayer,Simulation,Early Access",1,0,0,0,1,1,0,1,0,0,1,0,0,0
 World of Warships,75,"Action,Free to Play,Massively Multiplayer,Simulation",1,0,0,0,0,1,0,1,0,0,1,0,0,0
 World War III: Black Gold,65,Strategy,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Worlds,70,"Action,Adventure,Indie",1,1,0,0,0,0,1,0,0,0,0,0,0,0
