@@ -1,4 +1,4 @@
-CREATE TABLE steamPopularTags (
+CREATE TABLE popularTags (
 	game_name VARCHAR NOT NULL,
 	website_rating INT NOT NULL,
 	popular_tags VARCHAR NOT NULL, 
@@ -229,7 +229,7 @@ CREATE TABLE steamPopularTags (
 	PRIMARY KEY (game_name)
 );
 
-CREATE TABLE steamGameGenres (
+CREATE TABLE gameGenres (
 	game_name VARCHAR NOT NULL,
 	website_rating INT NOT NULL,
 	genre VARCHAR NOT NULL,
