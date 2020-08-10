@@ -36,7 +36,7 @@ Mongo is the database we intend to use, and we will integrate Flask to display t
 SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression and SMOTEENN.
 
 ### Dashboard: 
-https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UpComingVideoGames/Story1?publish=yes
+
 ## Summary/Deliverables 
 
 [Section for images and/or links to visual presentation pages.]
