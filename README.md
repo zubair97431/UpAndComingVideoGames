@@ -12,13 +12,12 @@ Using Steam library data, we wanted to determine what makes a video game success
 * Is there a relation between a game’s rating and genre? 
 * Is there a relation between a game’s rating  and tagged categories? 
 
-
 ### Resources: 
 
 #### Data Source(s):
 Kaggle.com 
 * Steam Store Games (Clean dataset)
-    *  Combined data of 27,000 games scraped from Steam and SteamSpy APIs (May 2019)
+    * Combined data of 27,000 games scraped from Steam and SteamSpy APIs (May 2019)
     * https://www.kaggle.com/nikdavis/steam-store-games 
     * Creator: Nik Davis 
 * Steam Games Complete Dataset
@@ -34,32 +33,38 @@ Kaggle.com
 * Exploration and Analysis:
     * Conda 4.8.3 
     * Python 3.7.7
+    * Jupyter Notebook 
     * Microsoft Excel  
     * VS Code 
 
 * Database: 
-    *  PostgresSQL 11/12
+    *  PostgresSQL 11 and 12
 
 * Machine Learning: 
-    * SMOTEENN
+    * SciKitLearn 
 
 * Dashboard and Presentation: 
     * Tableau 2020
     * Google Slides
 
+## Summary/Deliverables 
+
+### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/14ufltNWV_WKdvIHcUpGJF6-fU7ixM8EVtVumdZRBKfY/edit?usp=sharing)
+
 
 ### Data Cleaning and Analysis: 
-Pandas and Jupyter Notebook used to clean the data and perform an exploratory analysis. Further analysis completed using Python.
+Utilized Pandas within Jupyter Notebook to explore the datasets and perform cleaning to produce two CSVs: Popular_Tags.csv and Genre.csv. Each contain the video game name, positive review percentage, and split subsequent tags or genre categories. 
+
+Further cleaning and analysis was performed using Excel to catch minute errors within the rows of data to allow for clean imports into Postgres, Tableau, and for the machine learning portion. 
 
 ### Database Storage: 
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+PostgresSQL was selected for data storage, and a connection string was created to connect to the machine learning notebook. 
 
 ### Machine Learning: 
-SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression and SMOTEENN.
+Used the ML library SciKitLearn to create a classifier. Utilized Linear Regression for the training and testing setup to make a prediction. 
 
 ### Dashboard: 
 
-## Summary/Deliverables 
+Tableau used for visualization creation and for dashboard. The software was also utilized for minor data cleaning when outliers presented themselves within the data sets. 
 
-[Section for images and/or links to visual presentation pages.]
-
+* Interactivity: Selecting Genres/Popular Tags and model/visualization updates to display if selection leads to a popular game or not. 
