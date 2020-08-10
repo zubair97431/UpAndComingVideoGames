@@ -40,4 +40,5 @@ SciKitLearn is the ML library used to create a classifier. The training and test
 ## Summary/Deliverables 
 
 [Section for images and/or links to visual presentation pages.]
+https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UpComingVideoGames/Story1?publish=yes
 
