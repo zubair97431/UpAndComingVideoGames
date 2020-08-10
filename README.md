@@ -52,6 +52,8 @@ Kaggle.com
 ### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/14ufltNWV_WKdvIHcUpGJF6-fU7ixM8EVtVumdZRBKfY/edit?usp=sharing)
 
 
+### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UpComingVideoGames/Story1?publish=yes)
+
 ### Data Cleaning and Analysis: 
 Utilized Pandas within Jupyter Notebook to explore the datasets and perform cleaning to produce two CSVs: Popular_Tags.csv and Genre.csv. Each contain the video game name, positive review percentage, and split subsequent tags or genre categories. 
 
