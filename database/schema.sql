@@ -1,6 +1,6 @@
 CREATE TABLE popularTags (
 	game_name VARCHAR NOT NULL, 
-	percent_positive_reviews INT NOT NULL, 
+	percent_positive_reviews NUMERIC(4,1) NOT NULL, 
 	popular_tags VARCHAR NOT NULL, 
 	Tag_1980s BOOLEAN NOT NULL, 
 	Tag_1990s BOOLEAN NOT NULL, 
@@ -231,7 +231,7 @@ CREATE TABLE popularTags (
 
 CREATE TABLE gameGenres (
 	game_name VARCHAR NOT NULL, 
-	percent_positive_reviews INT NOT NULL, 
+	percent_positive_reviews NUMERIC(4,1) NOT NULL, 
 	genre VARCHAR NOT NULL, 
 	Action BOOLEAN NOT NULL, 
 	Adventure BOOLEAN NOT NULL, 
