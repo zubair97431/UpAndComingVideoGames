@@ -27,7 +27,8 @@ Kaggle.com
 
 ## Communication Protocols: 
 * Slack - Direct Messages between members for daily updates.
-* Zoom - Scheduled meetups between 2-3pm PST for peer review and clarifications. 
+* Zoom - Scheduled meetups between 2-3pm PST for peer review and clarifications.
+* Google Docs - Documentation of weekly updated roles and project plans.
 
 ## Technologies Used:
 * Exploration and Analysis:
