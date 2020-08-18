@@ -53,8 +53,7 @@ Kaggle.com
 ### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/14ufltNWV_WKdvIHcUpGJF6-fU7ixM8EVtVumdZRBKfY/edit?usp=sharing)
 
 
-### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UpComingVideoGames/Story1?publish=yes)
-[Tableau - Updated](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Up__Coming_Video_Games/Story1?publish=yes)
+### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Up__Coming_Video_Games/Story1?publish=yes)
               
 
 ### Data Cleaning and Analysis: 
