@@ -1,6 +1,9 @@
 # Adding config.py file.
 config.py
 
+# Tableau working files
+.twbr
+
 # Folders 
 .ipynb_checkpoints/
 .vscode/
