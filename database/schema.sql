@@ -1,3 +1,8 @@
+-- Instructions for Import:
+-- After table creation, import the following CSVs to tables from resources folder:
+-- 		Popular_Tags.csv to "popularTags"
+-- 		Genres.csv to "gameGenres" 
+
 CREATE TABLE popularTags (
 	game_name VARCHAR NOT NULL, 
 	percent_positive_reviews NUMERIC(4,1) NOT NULL, 
