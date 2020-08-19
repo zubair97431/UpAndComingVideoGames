@@ -41,7 +41,8 @@ Further cleaning and analysis was performed using Excel to catch minute errors w
 PostgresSQL was selected for data storage, and a connection string was created to connect to the machine learning notebook. 
 
 ### Machine Learning: 
-Used the ML library SciKitLearn to create a classifier. Utilized Linear Regression for the training and testing setup to make a prediction. 
+[[ MACHINE LEARNING SUMMARY -- 
+    Used the ML library SciKitLearn to create a classifier. Utilized Linear Regression for the training and testing setup to make a prediction. ]]
 
 ### Dashboard: 
 
