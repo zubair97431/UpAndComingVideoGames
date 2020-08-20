@@ -1,43 +1,51 @@
 # Up and Coming Video Games
 
 ## Project Overview 
-The topic for this project is "Up and Coming Video Games." The following task for this topic is to determine the key aspects and features of video games in order to predict what next type of video game will be successful and popular to players. This information can be used by potential clients to guide their decisions on the type of video game created to produce the most potential profits. 
-The topic was selected due to the growing video game industry and the wide availability of content from various social media, company, and gaming platforms.
-The data focused upon will be derived from the Steam game library, Twitch's popular gaming streams, and general video game sales. 
+
+### Topic Discovery 
+The topic for this project is "Up and Coming Video Games," and was selected from browsing the field of eSports (a form of competition using video games) and the video game industry itself. The industry continues to grow, therfore giving a wide availability of content from various social media, company, and gaming platforms. The given task was to analyze the key aspects of video games to predict what next type of video game will be successful and popular to players. 
+
+This data would help potential clients pick which creators to support, or help with decisions among their own creative teams to create a successful and popular video game. 
+
+Using Steam library data, we wanted to determine what features make a video game successful or “popular” to players, and to predict a video game's popularity or success based on given features.
 
 ### Question(s): 
-* What makes a video game popular? I.e.: Genre, play-type, platform, ratings, etc. 
-* Does the type of technology determine game popularity? PC vs Consoles, or consoles versus each other?
-* What trends can be tracked based on the timeframes of when video games are released and their popularity? 
+* What features determine a video game’s popularity or success? 
+* What relations are there between a game’s rating and genre or popular tags? 
 
 ### Resources: 
 
-#### Data Source(s):
-* Twitch Video Game Streaming: Most_watched_games_on_Twitch.csv 
-* Video Game Sales: vgsales.csv 
-* Steam Game Library: games-features.csv 
-
-## Communication Protocols: 
-* Slack - Direct Messages between members for daily updates.
-* Zoom - Scheduled meetups between 2-3pm PST for peer review and clarifications. 
-
-## Technologies Used:
-* Conda 4.8.3 
-* Python 3.7.7
-* SMOTEENN
-
-### Data Cleaning and Analysis: 
-Pandas and Jupyter Notebook used to clean the data and perform an exploratory analysis. Further analysis completed using Python.
-
-### Database Storage: 
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
-
-### Machine Learning: 
-SciKitLearn is the ML library used to create a classifier. The training and testing setup is Linear Regression and SMOTEENN.
-
-### Dashboard: 
+#### Data Sources:
+From Kaggle.com: 
+* [Steam Store Games (Clean dataset)](https://www.kaggle.com/nikdavis/steam-store-games)
+    * Combined data of 27,000 games scraped from Steam and SteamSpy APIs (May 2019)
+    * Creator: Nik Davis 
+* [Steam Games Complete Dataset](https://www.kaggle.com/trolukovich/steam-games-complete-dataset)
+    * 40k Steam Games Dataset from Steam shop with detailed data. (June 2019)
+    * Creator: Alexander Antonov 
 
 ## Summary/Deliverables 
 
-[Section for images and/or links to visual presentation pages.]
+### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/14ufltNWV_WKdvIHcUpGJF6-fU7ixM8EVtVumdZRBKfY/edit?usp=sharing)
 
+
+### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Up__Coming_Video_Games/Story1?publish=yes)
+              
+
+### Data Cleaning and Analysis: 
+Utilized Pandas within Jupyter Notebook to explore the datasets and perform cleaning to produce two CSVs: Popular_Tags.csv and Genre.csv. Each contain the video game name, positive review percentage, and split subsequent tags or genre categories. 
+
+Further cleaning and analysis was performed using Excel to catch minute errors within the rows of data to allow for clean imports into Postgres, Tableau, and for the machine learning portion. 
+
+### Database Storage: 
+PostgresSQL was selected for data storage, and a connection string was created to connect to the machine learning notebook. 
+
+### Machine Learning: 
+[[ MACHINE LEARNING SUMMARY -- 
+    Used the ML library SciKitLearn to create a classifier. Utilized Linear Regression for the training and testing setup to make a prediction. ]]
+
+### Dashboard: 
+
+Tableau used for visualization creation and for dashboard. The software was also utilized for minor data cleaning when outliers presented themselves within the data sets. 
+
+* Interactivity: Selecting Genres/Popular Tags and model/visualization updates to display if selection leads to a popular game or not. 
