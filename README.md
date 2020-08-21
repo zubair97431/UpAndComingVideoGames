@@ -43,7 +43,38 @@ PostgresSQL was selected for data storage, and a connection string was created t
 ### Machine Learning: 
 The Machine Learning model used for both popular tags and genre was a Logistic Regression Model. The target variable for both models was the "percent_positive_reviews" and the features were the popular tags and genre respectively. The accuracy score for the popular tags Logistic Regression Model was 73%, while the accuracy score for the genre Logistic Regression Model was 70%.
 
+Full report available within Machine Learning Model folder. 
+
 ### Dashboard: 
 
 Tableau used for visualization creation and for dashboard. The software was also utilized for minor data cleaning when outliers presented themselves within the data sets. 
 
+## Results
+Based on results, the following were determined to be the top areas that a client or creator should take into consideration when creating a popular video game. 
+
+### Top Popular Tags / Game Content:
+
+![Popular Tag Counts Chart](presentation/presentation_images/Popular Tag Counts.jpg)
+
+1. Indie
+2. Singleplayer
+3. Action
+4. Adventure
+5. Great Soundtrack
+6. Casual
+7. Multiplayer
+8. Strategy
+9. Atmospheric
+10. RPG
+
+### Top Genres:
+
+![Genre Counts Chart](presentation/presentation_images/Genre Counts.jpg)
+
+1. Indie
+2. Action
+3. Adventure
+4. Casual
+5. Strategy
+6. RPG
+7. Simulation
