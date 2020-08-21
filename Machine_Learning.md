@@ -26,7 +26,7 @@
  
  ### Machine Learning Results 
  
- After running the Logistic Regression model. The accuracy of the logistic regression came out to about 0.73. The precision of both unpopular and popular games were 63% and 75% respectively. With 75% being the precision score for popular games, its safe to say that popular games are much preciser in judging based on the model.¶
+ After running the Logistic Regression model. The accuracy of the logistic regression came out to about 0.73 for the popular_tags csv and 0.70 for the genre_csv. The precision of both unpopular and popular games were 63% and 75% respectively. With 75% being the precision score for popular games, its safe to say that popular games are much preciser in judging based on the model.¶
 
 ### Machine Learning Limitations 
 Potential for overfitting with the Random Forest Model based on the amount of columns and rows. 
