@@ -30,7 +30,7 @@ From Kaggle.com:
 
 
 ### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Up__Coming_Video_Games/Story1?publish=yes)
-#### Updated Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Storyboard_Dashboard_UCB/UpandComingVideoGames?publish=yes)
+#### Final Storyboard/Dashboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UCB_Storyboard_Dashboard_Final/UpandComingVideoGames?publish=yes)
               
 
 ### Data Cleaning and Analysis: 
