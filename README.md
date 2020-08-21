@@ -26,10 +26,10 @@ From Kaggle.com:
 
 ## Summary/Deliverables 
 
-### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/14ufltNWV_WKdvIHcUpGJF6-fU7ixM8EVtVumdZRBKfY/edit?usp=sharing)
+### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/1BftnMm7_0hzENDXpyaWT1JZWwxeSu5iBG8XQtGRbP2U/edit?usp=sharing)
 
 
-### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Up__Coming_Video_Games/Story1?publish=yes)
+### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UCB_Storyboard_Dashboard/UpandComingVideoGames?publish=yes)
               
 
 ### Data Cleaning and Analysis: 
@@ -38,14 +38,12 @@ Utilized Pandas within Jupyter Notebook to explore the datasets and perform clea
 Further cleaning and analysis was performed using Excel to catch minute errors within the rows of data to allow for clean imports into Postgres, Tableau, and for the machine learning portion. 
 
 ### Database Storage: 
-PostgresSQL was selected for data storage, and a connection string was created to connect to the machine learning notebook. 
+PostgresSQL was selected for data storage, and a connection string was created to connect to the machine learning notebooks. 
 
 ### Machine Learning: 
-[[ MACHINE LEARNING SUMMARY -- 
-    Used the ML library SciKitLearn to create a classifier. Utilized Linear Regression for the training and testing setup to make a prediction. ]]
+The Machine Learning model used for both popular tags and genre was a Logistic Regression Model. The target variable for both models was the "percent_positive_reviews" and the features were the popular tags and genre respectively. The accuracy score for the popular tags Logistic Regression Model was 73%, while the accuracy score for the genre Logistic Regression Model was 70%.
 
 ### Dashboard: 
 
 Tableau used for visualization creation and for dashboard. The software was also utilized for minor data cleaning when outliers presented themselves within the data sets. 
 
-* Interactivity: Selecting Genres/Popular Tags and model/visualization updates to display if selection leads to a popular game or not. 
