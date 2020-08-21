@@ -53,7 +53,7 @@ Based on results, the following were determined to be the top areas that a clien
 
 ### Top Popular Tags / Game Content:
 
-![Popular Tag Counts Chart](presentation/presentation_images/Popular Tag Counts.jpg)
+![Popular Tag Counts Chart](https://github.com/zubair97431/UpAndComingVideoGames/blob/master/presentation/presentation_images/Popular%20Tag%20Counts.jpg)
 
 1. Indie
 2. Singleplayer
@@ -68,7 +68,7 @@ Based on results, the following were determined to be the top areas that a clien
 
 ### Top Genres:
 
-![Genre Counts Chart](presentation/presentation_images/Genre Counts.jpg)
+![Genre Counts Chart](https://github.com/zubair97431/UpAndComingVideoGames/blob/master/presentation/presentation_images/Genre%20Counts.jpg)
 
 1. Indie
 2. Action
