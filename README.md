@@ -28,7 +28,6 @@ From Kaggle.com:
 
 ### Final Presentation: [Google Slides](https://docs.google.com/presentation/d/1BftnMm7_0hzENDXpyaWT1JZWwxeSu5iBG8XQtGRbP2U/edit?usp=sharing)
 
-
 ### Storyboard: [Tableau](https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/UCB_Storyboard_Dashboard/UpandComingVideoGames?publish=yes)
               
 
