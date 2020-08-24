@@ -79,4 +79,4 @@ Based on results, the following were determined to be the top areas that a clien
 7. Simulation
 
 ### Recommendation
-A client who is creating a video game startup company may want to consider creating video games that fall under the the top 10 popular tags and top 7 genres listed above. After the first year of operation, it is recommended to go ahead and run another set of analyses on the the company's success during its first year. Modifications will be made according to the new results each year to make sure that the company is up to speed with its competitors.
+A client who is creating a video game startup company may want to consider creating video games that fall under the top 10 popular tags and top 7 genres listed above. After the first year of operation, it is recommended to go ahead and run another set of analyses on the company's success during its first year. Modifications will be made according to the new results each year to make sure that the company is up to speed with its competitors.
