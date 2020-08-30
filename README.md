@@ -3,7 +3,7 @@
 ## Project Overview 
 
 ### Topic Discovery 
-The topic for this project is "Up and Coming Video Games," and was selected from browsing the field of eSports (a form of competition using video games) and the video game industry itself. The industry continues to grow, therfore giving a wide availability of content from various social media, company, and gaming platforms. The given task was to analyze the key aspects of video games to predict what next type of video game will be successful and popular to players. 
+The topic for this project is "Up and Coming Video Games," and was selected from browsing the field of eSports (a form of competition using video games) and the video game industry itself. The industry continues to grow, therefore giving a wide availability of content from various social media, company, and gaming platforms. The given task was to analyze the key aspects of video games to predict what next type of video game will be successful and popular to players. 
 
 This data would help potential clients pick which creators to support, or help with decisions among their own creative teams to create a successful and popular video game. 
 
